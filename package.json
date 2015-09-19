@@ -1,0 +1,35 @@
+{
+  "name": "talk",
+  "version": "0.5.0",
+  "description": "Talk is a festival TTS wrapper written in NodeJS",
+  "main": "index.js",
+  "bin": {
+    "talk": "./bin/talk"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "devDependencies": {},
+  "author": "Active 9 LLC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/active9/talk"
+  },
+  "bugs": {
+    "url": "https://github.com/active9/talk/issues"
+  },
+  "homepage": "https://github.com/active9/talk",
+  "keywords": [
+    "talk",
+    "festival",
+    "tts",
+    "say",
+    "speak",
+    "computer",
+    "voice"
+  ]
+}
