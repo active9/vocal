@@ -37,7 +37,7 @@ talk("Testing 1 2 3 Testing One Two Three.. Is this thing on?", function() {
 ```
 
 #EXAMPLES
-More examples in the examples folder on the github repo.
+More examples in the [examples](https://github.com/active9/talk/tree/master/examples) folder on the github repo.
 
 ~Enjoy!
 
