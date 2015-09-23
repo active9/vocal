@@ -2,7 +2,6 @@
 
 var vocal = require("../lib/vocal.js");
 
-console.log("TEST", process.argv[process.argv.length-1]);
 if(process.argv[process.argv.length-1].match('vocal')) {
 	console.log("Try: vocal \"Hello There\"");
 	process.exit(1);
