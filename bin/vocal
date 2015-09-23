@@ -1,12 +1,12 @@
 #!/usr/bin/env node
 
-var talk = require("../lib/talk.js");
+var vocal = require("../lib/vocal.js");
 
 console.log("TEST", process.argv[process.argv.length-1]);
-if(process.argv[process.argv.length-1].match('talk')) {
-	console.log("Try: talk \"Hello There\"");
+if(process.argv[process.argv.length-1].match('vocal')) {
+	console.log("Try: vocal \"Hello There\"");
 	process.exit(1);
 }
-talk(process.argv[process.argv.length-1], function() {
+vocal(process.argv[process.argv.length-1], function() {
 	process.exit(1);
 });
