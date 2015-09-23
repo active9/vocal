@@ -23,11 +23,11 @@ npm install -g vocal
 Once installed run
 
 ```bash
-talk "Hello There"
+vocal "Hello There"
 ```
 
 #MODULE
-Talk may also run included as a module in your projects.
+Vocal may also run included as a module in your projects.
 ```js
 var vocal = require("../lib/vocal.js");
 
@@ -45,9 +45,8 @@ More examples in the [examples](https://github.com/active9/vocal/tree/master/exa
 - [Festival](http://www.cstr.ed.ac.uk/projects/festival/)
 - [voice_cmu_us_slt_arctic_hts](http://homepages.inf.ed.ac.uk/jyamagis/misc/Practice_of_Festival_speech_synthesizer.html)
 
-
 #TODO
-- Finish the talk.sing method.
+- Finish the vocal.sing method.
 
 #CONTRIB
 
