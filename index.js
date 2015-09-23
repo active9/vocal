@@ -1,1 +1,1 @@
-var talk = require('./lib/talk.js')
+var vocal = require('./lib/vocal.js')

@@ -1,4 +1,4 @@
-var talk = require("../lib/talk.js");
-talk("Pepper pot pickle pot purple pot");
-talk("Pepper pot pickle pot purple pot");
-talk("Pepper pot pickle pot purple pot");
+var vocal = require("../lib/vocal.js");
+vocal("Pepper pot pickle pot purple pot");
+vocal("Pepper pot pickle pot purple pot");
+vocal("Pepper pot pickle pot purple pot");

@@ -1,10 +1,10 @@
 {
-  "name": "talk",
+  "name": "vocal",
   "version": "0.5.0",
-  "description": "Talk is a festival TTS wrapper written in NodeJS",
+  "description": "Vocal is a festival TTS wrapper written in NodeJS",
   "main": "index.js",
   "bin": {
-    "talk": "./bin/talk"
+    "vocal": "./bin/vocal"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,14 +17,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/active9/talk"
+    "url": "https://github.com/active9/vocal"
   },
   "bugs": {
-    "url": "https://github.com/active9/talk/issues"
+    "url": "https://github.com/active9/vocal/issues"
   },
-  "homepage": "https://github.com/active9/talk",
+  "homepage": "https://github.com/active9/vocal",
   "keywords": [
-    "talk",
+    "vocal",
     "festival",
     "tts",
     "say",

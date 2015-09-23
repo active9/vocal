@@ -1,6 +1,6 @@
-var talk;
-talk = require("../lib/talk.js");
-talk([
+var vocal;
+vocal = require("../lib/vocal.js");
+vocal([
   {
     note: 'E3',
     durations: [
