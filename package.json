@@ -1,6 +1,6 @@
 {
   "name": "vocal",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Vocal is a festival TTS wrapper written in NodeJS",
   "main": "index.js",
   "bin": {

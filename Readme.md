@@ -12,7 +12,7 @@ Vocal is a festival TTS wrapper written in NodeJS.
 Using Git:
 ```bash
 git clone https://github.com/active9/vocal
-cd talk*
+cd vocal*
 npm install
 ```
 
